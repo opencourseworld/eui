@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: eui
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Mario
+    family-names: Possamato
+    email: mariopossamato@gmail.com
+    affiliation: Open Course World
+repository-code: 'https://github.com/opencourseworld/eui'
+abstract: >-
+  A decompilation of eui from Slope (Super Mario Maker 2)
+  versions 3.0.2 and 3.0.3.  Decompiled with IDA
+  Professional 9.0.
+keywords:
+  - cpp
+  - decompilation
+  - nintendo
+  - super-mario-maker-2
+license: GPL-3.0
+date-released: '2024-12-11'
